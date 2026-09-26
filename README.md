@@ -83,11 +83,6 @@
 
 </div>
 
-### 📅 Contribution Calendar
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevAisbert/DevAisbert/main/metrics.isocalendar.svg" />
-</div>
-
 ![](https://komarev.com/ghpvc/?username=DevAisbert&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
