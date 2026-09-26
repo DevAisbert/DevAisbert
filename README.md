@@ -71,9 +71,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAisbert&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAisbert&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
 
@@ -81,11 +78,12 @@
 
 </div>
 
-### 🏆 Profile Trophies
+### 📅 Contribution Calendar
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevAisbert/DevAisbert/main/metrics.isocalendar.svg" />
+</div>
 
-<div align=center>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevAisbert&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=DevAisbert&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -97,14 +95,16 @@
   <i>"Recuerda que morirás. Cada línea de código, cada día, cuenta."</i>
 </p>
 
----
+
+
 
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevAisbert/DevAisbert/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
----
+
+
 
 
 ### 🔗 &nbsp;Contact Me
