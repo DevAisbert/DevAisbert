@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aisber+Luciano;Software+Development+Student+at+ITLA;IT+Support+%26+Help+Desk+Background;Always+building+something" />
 </p>
----
+
 
 - 🎓 Software Development student at **ITLA** (Instituto Tecnológico de las Américas), Dominican Republic
 - 💻 Background in **IT Support / Help Desk**, technical support and customer service (fiber optic networking)
@@ -18,6 +18,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
