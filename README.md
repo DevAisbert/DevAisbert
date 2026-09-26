@@ -16,7 +16,7 @@
 - 🛠️ Building real projects with Angular, .NET, SQL Server and Supabase while I study
 - 🌱 Currently diving deeper into **Microsoft Azure** (aiming for AZ-900) and cloud deployment
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ## 🛠 &nbsp;Tech Stack
 
