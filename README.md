@@ -7,6 +7,10 @@
 </p>
 
 
+
+
+
+
 - 🎓 Software Development student at **ITLA** (Instituto Tecnológico de las Américas), Dominican Republic
 - 💻 Background in **IT Support / Help Desk**, technical support and customer service (fiber optic networking)
 - 🛠️ Building real projects with Angular, .NET, SQL Server and Supabase while I study
