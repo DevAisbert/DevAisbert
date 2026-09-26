@@ -88,9 +88,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevAisbert&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
----
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,100:8b0000&height=130&section=header&text=Memento%20Mori&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
@@ -101,6 +98,14 @@
 </p>
 
 ---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevAisbert/DevAisbert/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+---
+
 
 ### 🔗 &nbsp;Contact Me
 
