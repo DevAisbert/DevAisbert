@@ -1,11 +1,10 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1a1a,100:8b0000&section=header&text=DevAisbert&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&section=header&text=DevAisbert&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aisber+Luciano;Software+Development+Student+at+ITLA;IT+Support+%26+Help+Desk+Background;Always+building+something" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aisber+Luciano;Software+Development+Student+at+ITLA;IT+Support+%26+Help+Desk+Background;Always+building+something" />
 </p>
-
 ---
 
 - 🎓 Software Development student at **ITLA** (Instituto Tecnológico de las Américas), Dominican Republic
@@ -53,7 +52,7 @@
 
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=DevAisbert&theme=algolia&show_icons=true&count_private=true&bg_color=1a1a1a&border_color=8b0000&icon_color=8b0000&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=DevAisbert&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
 </div>
 
@@ -69,15 +68,12 @@
 
 <div align=center>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAisbert&theme=dracula&background=1a1a1a&border=8b0000&stroke=000000&ring=8b0000&fire=8b0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b0000&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAisbert&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAisbert&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Language
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAisbert&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
 
@@ -92,6 +88,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevAisbert&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+---
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,100:8b0000&height=130&section=header&text=Memento%20Mori&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
+</div>
+
+<p align="center">
+  <i>"Recuerda que morirás. Cada línea de código, cada día, cuenta."</i>
+</p>
 
 ---
 
