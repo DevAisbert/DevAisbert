@@ -18,16 +18,6 @@
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,100:8b0000&height=130&section=header&text=Memento%20Mori&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
-</div>
-
-<p align="center">
-  <i>"Recuerda que morirás. Cada línea de código, cada día, cuenta."</i>
-</p>
-
-
-
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔤 Languages
@@ -101,6 +91,16 @@
 ![](https://komarev.com/ghpvc/?username=DevAisbert&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,100:8b0000&height=130&section=header&text=Memento%20Mori&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
+</div>
+
+<p align="center">
+  <i>"Recuerda que morirás. Cada línea de código, cada día, cuenta."</i>
+</p>
 
 
 
